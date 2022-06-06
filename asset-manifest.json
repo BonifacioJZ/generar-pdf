@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/generator-pdf/static/css/main.80cce5ef.css",
+    "main.js": "/generator-pdf/static/js/main.05076b07.js",
+    "static/js/498.5548912a.chunk.js": "/generator-pdf/static/js/498.5548912a.chunk.js",
+    "static/js/703.ab5162d8.chunk.js": "/generator-pdf/static/js/703.ab5162d8.chunk.js",
+    "static/js/560.945f80a8.chunk.js": "/generator-pdf/static/js/560.945f80a8.chunk.js",
+    "static/js/787.cc682f14.chunk.js": "/generator-pdf/static/js/787.cc682f14.chunk.js",
+    "index.html": "/generator-pdf/index.html",
+    "main.80cce5ef.css.map": "/generator-pdf/static/css/main.80cce5ef.css.map",
+    "main.05076b07.js.map": "/generator-pdf/static/js/main.05076b07.js.map",
+    "498.5548912a.chunk.js.map": "/generator-pdf/static/js/498.5548912a.chunk.js.map",
+    "703.ab5162d8.chunk.js.map": "/generator-pdf/static/js/703.ab5162d8.chunk.js.map",
+    "560.945f80a8.chunk.js.map": "/generator-pdf/static/js/560.945f80a8.chunk.js.map",
+    "787.cc682f14.chunk.js.map": "/generator-pdf/static/js/787.cc682f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cce5ef.css",
+    "static/js/main.05076b07.js"
+  ]
+}
